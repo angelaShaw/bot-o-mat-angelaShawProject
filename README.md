@@ -1,1 +1,2 @@
-# bot-o-mat-angelaShawProject
+## HOW TO RUN THE FILE
+Run runRobot.java. You will be prompted with a question of how many robots you want to add, If you do not enter a valid number-it assumes you mean 0. You will be then asked to type in the type of each robot (Please ensure it is spelled correctly, it is not case senstive ). It will then assign random tasks to each robot and run it (this can take a while). Within each robot's class you can see what tasks they can or cannot perform.
